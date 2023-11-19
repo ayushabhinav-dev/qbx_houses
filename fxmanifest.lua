@@ -40,7 +40,6 @@ files {
 
 dependencies {
     'qbx_interior',
-    'qbx_weathersync'
 }
 
 provide 'qb-houses'
